@@ -12,17 +12,17 @@ Task Tracker is a simple Flutter application for tracking tasks.
 
 ## Screenshots
 
-![Screenshot 1](assets/Images/ss1.png)
-![Screenshot 2](assets/Images/ss2.png)
-![Screenshot 3](assets/Images/ss3.png)
-![Screenshot 4](assets/Images/ss4.png)
-![Screenshot 5](assets/Images/ss5.png)
-![Screenshot 6](assets/Images/ss6.png)
-![Screenshot 7](assets/Images/ss7.png)
-![Screenshot 8](assets/Images/ss8.png)
-![Screenshot 9](assets/Images/ss9.png)
-![Screenshot 10](assets/Images/ss10.png)
-![Screenshot 11](assets/ss11.png)
+![Screenshot 1](assets/Images/ss1)
+![Screenshot 2](assets/Images/ss2)
+![Screenshot 3](assets/Images/ss3)
+![Screenshot 4](assets/Images/ss4)
+![Screenshot 5](assets/Images/ss5)
+![Screenshot 6](assets/Images/ss6)
+![Screenshot 7](assets/Images/ss7)
+![Screenshot 8](assets/Images/ss8)
+![Screenshot 9](assets/Images/ss9)
+![Screenshot 10](assets/Images/ss10)
+![Screenshot 11](assets/ss11)
 
 ## Installation
 
