@@ -1,7 +1,3 @@
-Sure! Here's a simple example of how you can structure a README file for your Flutter project:
-
----
-
 # Task Tracker App
 
 Task Tracker is a simple Flutter application for tracking tasks.
@@ -24,7 +20,7 @@ Task Tracker is a simple Flutter application for tracking tasks.
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your_username/task_tracker.git
+   git clone https://github.com/Shubham-Zone/task_tracker.git
    ```
 
 2. Navigate to the project directory:
@@ -57,11 +53,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 3. Commit your changes (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature/your-feature-name`).
 5. Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this template according to your project's specific needs and add more details as required.
