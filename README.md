@@ -12,7 +12,7 @@ Task Tracker is a simple Flutter application for tracking tasks.
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](assets/Images/empty.png)
 ![Screenshot 2](screenshots/screenshot2.png)
 ![Screenshot 3](screenshots/screenshot3.png)
 
